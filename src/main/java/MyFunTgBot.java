@@ -88,3 +88,4 @@ public class MyFunTgBot extends TelegramLongPollingBot {
         return msg;
     }
 }
+//
